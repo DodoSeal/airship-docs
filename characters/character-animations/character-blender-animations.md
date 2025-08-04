@@ -14,7 +14,7 @@ We use [Blender 3.5](https://download.blender.org/release/Blender3.5/) internall
 
 ## Creating Animations With Blender
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (1).png>)
 
 You can create multiple animations in 1 blender file
 

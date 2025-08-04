@@ -28,7 +28,17 @@ This project has everything prepared to start building a game on Airship.&#x20;
 ### Opening Unity for the First Time
 
 * You will be prompted to download the Unity Editor. Press yes.&#x20;
-* Airship will start downloading required asset packages. This may take a few minutes.&#x20;
+  * Make sure to install the required modules:
+    * Android Build Support
+    * iOS Build Support
+    * Linux Build Support (IL2CPP)
+    * Windows Build Support (IL2CPP)
+
+<div align="left"><figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+Airship will start downloading required asset packages. This may take a few minutes.&#x20;
+{% endhint %}
 
 ### Play the Game
 

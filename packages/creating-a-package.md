@@ -14,5 +14,5 @@ Click the Create Package button and give it a name.
 
 The path in the top left is what you will use to import the package into your game.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="182"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="182"><figcaption></figcaption></figure></div>
 
